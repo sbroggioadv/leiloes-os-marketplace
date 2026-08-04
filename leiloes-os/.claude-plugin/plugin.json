@@ -1,0 +1,8 @@
+{
+  "name": "leiloes-os",
+  "version": "0.1.0",
+  "description": "Especialista em leiloes judiciais e extrajudiciais brasileiros ponta a ponta, para os DOIS lados do mesmo evento (quem arremata e quem perde o imovel) e para os DOIS publicos (advogado e investidor): due diligence do arrematante (edital, matricula, ocupacao, debitos propter rem, risco de anulacao e teto de lance), mecanica do leilao judicial (CPC arts. 879-903 + Res. CNJ 236), alienacao fiduciaria e Marco das Garantias (Lei 9.514 e Lei 14.711), pos-arrematacao (imissao, desocupacao, ITBI, debitos e creditos), defesa do executado/fiduciante (anulatórias, preco vil, nulidades de intimacao, embargos de terceiro) e recursos standalone. Postura honesta e anti-alucinacao por design, com gate DUE-DILIGENCE-FIRST antes de qualquer opiniao de lance.",
+  "author": {
+    "name": "Sbroggio Advocacia & IA Combativa"
+  }
+}

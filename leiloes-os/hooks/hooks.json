@@ -1,0 +1,13 @@
+{
+  "SessionStart": [
+    {
+      "hooks": [
+        {
+          "type": "command",
+          "command": "echo 'leiloes-os carregado — rode /start-leiloes para configurar (advogado x investidor) ou /leiloes-master para conduzir o caso. Gate DUE-DILIGENCE-FIRST: nenhuma opiniao de lance sem edital + matricula + ocupacao + debitos.'",
+          "timeout": 5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "leiloes-os-marketplace",
+  "description": "Marketplace oficial do plugin Leilões OS. Leilão judicial e extrajudicial brasileiro ponta a ponta, para quem arremata e para quem está perdendo o imóvel.",
+  "owner": {
+    "name": "Sbroggio Advocacia & IA Combativa"
+  },
+  "plugins": [
+    {
+      "name": "leiloes-os",
+      "source": "./leiloes-os",
+      "description": "Especialista em leilões judiciais e extrajudiciais brasileiros ponta a ponta, para os DOIS lados do mesmo evento — quem arremata e quem perde o imóvel — e para os DOIS públicos: advogado e investidor. Cobre a due diligence do arrematante (edital, matrícula, ocupação, débitos propter rem, risco de anulação e teto de lance), a mecânica do leilão judicial (CPC arts. 879-903 + Res. CNJ 236), a alienação fiduciária extrajudicial (Lei 9.514 e Marco das Garantias 14.711/2023), a invalidação e os embargos, a comissão e a prestação de contas do leiloeiro, o registro, o ITBI e a regularização — com recursos próprios até STJ e STF. Anti-alucinação por design: nenhum percentual sai sem a base de cálculo nomeada.",
+      "author": {
+        "name": "Sbroggio Advocacia & IA Combativa"
+      }
+    }
+  ]
+}
