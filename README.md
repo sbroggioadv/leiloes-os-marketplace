@@ -16,6 +16,22 @@
 > 11/08/2026 em diante, para quem chega ao repositório sem ter adquirido.
 
 
+> ## ⚖️ Este repositório NÃO é software livre
+>
+> O código fica visível para viabilizar a instalação no Claude/Cowork — não porque seja gratuito.
+>
+> **LEILOES OS — R$ 298,00, pagamento único** (sem assinatura, sem recorrência)
+> 👉 **[Adquirir a licença](https://pay.kirvano.com/0f4cc51b-e35c-4dc9-8e6c-6b05079bd4f8)**
+>
+> **Ao forkar ou clonar este repositório você adere à [licença de uso](LICENSE)**, devendo efetuar o
+> pagamento no link acima e enviar o comprovante para **luis@sbroggio.com.br**.
+>
+> Os forks são públicos no GitHub e são registrados pelo titular (data, conta e repositório).
+>
+> **Já comprou?** Nada a fazer — sua licença cobre o uso e o fork para instalação. Este aviso vale de
+> 11/08/2026 em diante, para quem chega ao repositório sem ter adquirido.
+
+
 Marketplace oficial do plugin **Leilões OS**: leilão judicial e extrajudicial brasileiro ponta a
 ponta, para os **dois lados do mesmo evento** — quem arremata e quem está perdendo o imóvel — e
 para os **dois públicos**: advogado e investidor.
